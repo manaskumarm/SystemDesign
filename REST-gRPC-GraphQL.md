@@ -32,6 +32,8 @@
 
 ---
 
+<img width="542" height="143" alt="image" src="https://github.com/user-attachments/assets/e521e85c-17c6-4c74-946b-2f3e2aca19f4" />
+
 ## Typical Enterprise Architecture
 
 ```text
