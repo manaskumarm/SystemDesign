@@ -43,3 +43,5 @@ REST/gRPC Microservices
     ↓
 Databases
 ```
+<img width="544" height="339" alt="image" src="https://github.com/user-attachments/assets/567d22e5-d642-403f-8dd3-b65e364a154d" />
+
